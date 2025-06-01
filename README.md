@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Final Year Project which involves building a web application for recruitment process<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with understanding advanced web development concepts<br>🌱 I’m currently learning GO language<br>💬 Ask me about Next.js <br>⚡ Happy and Sad at sametime :)
+Currently working as a Developer at New Web Order◬<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with understanding advanced web development concepts<br>🌱 I’m currently learning NOTHING<br>💬 Ask me about Next.js <br>⚡ Happy and Sad at sametime :)
 
 
 ## 🌐 Socials:
