@@ -1,5 +1,5 @@
 # 💫 About Me:
-◬ Currently working as a Developer at New Web Order◬<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with understanding advanced web development concepts<br>🌱 I’m currently learning NOTHING<br>💬 Ask me about Next.js <br>⚡ Happy and Sad at sametime :)
+◬Currently working as a Developer at New Web Order◬<br>I’m looking to collaborate on open-source projects<br>I’m looking for help with understanding advanced web development concepts<br>I’m currently learning NOTHING<br>Ask me about Next.js <br>Happy and Sad at sametime :)
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=huzaifa-bilal-01&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=huzaifa-bilal-01&icon=0&color=0)](https://visitcount.itsvg.in)
